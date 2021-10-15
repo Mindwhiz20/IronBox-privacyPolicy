@@ -88,7 +88,6 @@ applicable law, IronBox will make reasonable efforts to notify you of such discl
 Data Retention:
 
 IronBox retains the data collected pursuant to this Privacy Policy for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a 
-
 longer retention period is required or permitted by law. Thereafter if the collected data is no longer needed for purposes specified in this Privacy Policy, 
 IronBox deletes all aforementioned data in our possession within a reasonable timeframe. IronBox does not verify the correctness of personal data.
 IronBox may still retain some of the data to the extent such retention is necessary to resolve disputes, enforce IronBox user agreements, and comply with 
